@@ -29,25 +29,25 @@
 
 @font-face {
     font-family: 'News Gothic' ;
-    src: url("/fonts/Caslon/NewsGothicStd.otf");
+    src: url("/fonts/News_Gothic/NewsGothicStd.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'News Gothic' ;
-    src: url("/fonts/Caslon/NewsGothicStd-Oblique.otf");
+    src: url("/fonts/News_Gothic/NewsGothicStd-Oblique.otf");
     font-style: italic;
     font-weight: normal;
 }
 @font-face {
     font-family: 'News Gothic' ;
-    src: url("/fonts/Caslon/NewsGothicStd-Bold.otf");
+    src: url("/fonts/News_Gothic/NewsGothicStd-Bold.otf");
     font-style: normal;
     font-weight: bold;
 }
 @font-face {
     font-family: 'News Gothic' ;
-    src: url("/fonts/Caslon/NewsGothicStd-BoldOblique.otf");
+    src: url("/fonts/News_Gothic/NewsGothicStd-BoldOblique.otf");
     font-style: italic;
     font-weight: bold;
 }
