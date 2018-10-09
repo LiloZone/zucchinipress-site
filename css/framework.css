@@ -9291,6 +9291,9 @@
 .bold {
   font-weight: 700; }
 
+.italic {
+  font-style: italic; }
+
 .extrabold {
   font-weight: 800; }
 
@@ -9435,6 +9438,16 @@
     .dark_gray.link:hover, .dark_gray.link:focus {
       color: #95a5a6; }
 
+.dark_gray_green_hover {
+  color: #232317; }
+  .dark_gray.link {
+    -webkit-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s; }
+    .dark_gray.link:hover, .dark_gray.link:focus {
+      color: #0cb658; }
+      
+
 .black {
   color: #000000; }
   .black.link {
@@ -9540,6 +9553,9 @@
 
 .bg_medium_gray {
   background: #95a5a6; }
+
+.bg_purple {
+  background: #970da3; }
 
 .bg_dark_gray {
   background: #141414; }
